@@ -1,0 +1,31 @@
+
+
+for creating new project
+-- dotnet new console --name BubbleSort
+
+
+go to that directory
+-- cd .\MissingNumberInArray\
+
+for restoring 
+-- dotnet restore
+
+for building
+-- dotnet build
+
+for running
+-- dotnet run
+
+
+
+--------------------Github -- Commands
+
+-- for adding changes
+git add .
+
+-- for naming git changes
+git commit -m "Initial"
+
+
+-- for pushing
+git push origin master
