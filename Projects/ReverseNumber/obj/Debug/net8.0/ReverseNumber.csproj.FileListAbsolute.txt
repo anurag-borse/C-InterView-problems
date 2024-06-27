@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\ReverseNumber\bin\Debug\net8.0\ReverseNumber.exe
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\ReverseNumber\bin\Debug\net8.0\ReverseNumber.deps.json
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\ReverseNumber\bin\Debug\net8.0\ReverseNumber.runtimeconfig.json
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\ReverseNumber\bin\Debug\net8.0\ReverseNumber.dll
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\ReverseNumber\bin\Debug\net8.0\ReverseNumber.pdb
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\ReverseNumber\obj\Debug\net8.0\ReverseNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\ReverseNumber\obj\Debug\net8.0\ReverseNumber.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\ReverseNumber\obj\Debug\net8.0\ReverseNumber.AssemblyInfo.cs
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\ReverseNumber\obj\Debug\net8.0\ReverseNumber.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\ReverseNumber\obj\Debug\net8.0\ReverseNumber.dll
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\ReverseNumber\obj\Debug\net8.0\refint\ReverseNumber.dll
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\ReverseNumber\obj\Debug\net8.0\ReverseNumber.pdb
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\ReverseNumber\obj\Debug\net8.0\ReverseNumber.genruntimeconfig.cache
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\ReverseNumber\obj\Debug\net8.0\ref\ReverseNumber.dll

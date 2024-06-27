@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\ProductOfAnArray\bin\Debug\net8.0\ProductOfAnArray.exe
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\ProductOfAnArray\bin\Debug\net8.0\ProductOfAnArray.deps.json
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\ProductOfAnArray\bin\Debug\net8.0\ProductOfAnArray.runtimeconfig.json
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\ProductOfAnArray\bin\Debug\net8.0\ProductOfAnArray.dll
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\ProductOfAnArray\bin\Debug\net8.0\ProductOfAnArray.pdb
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\ProductOfAnArray\obj\Debug\net8.0\ProductOfAnArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\ProductOfAnArray\obj\Debug\net8.0\ProductOfAnArray.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\ProductOfAnArray\obj\Debug\net8.0\ProductOfAnArray.AssemblyInfo.cs
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\ProductOfAnArray\obj\Debug\net8.0\ProductOfAnArray.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\ProductOfAnArray\obj\Debug\net8.0\ProductOfAnArray.dll
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\ProductOfAnArray\obj\Debug\net8.0\refint\ProductOfAnArray.dll
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\ProductOfAnArray\obj\Debug\net8.0\ProductOfAnArray.pdb
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\ProductOfAnArray\obj\Debug\net8.0\ProductOfAnArray.genruntimeconfig.cache
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\ProductOfAnArray\obj\Debug\net8.0\ref\ProductOfAnArray.dll

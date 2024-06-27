@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\SumOfEvenNumbersInList\bin\Debug\net8.0\SumOfEvenNumbersInList.exe
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\SumOfEvenNumbersInList\bin\Debug\net8.0\SumOfEvenNumbersInList.deps.json
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\SumOfEvenNumbersInList\bin\Debug\net8.0\SumOfEvenNumbersInList.runtimeconfig.json
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\SumOfEvenNumbersInList\bin\Debug\net8.0\SumOfEvenNumbersInList.dll
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\SumOfEvenNumbersInList\bin\Debug\net8.0\SumOfEvenNumbersInList.pdb
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\SumOfEvenNumbersInList\obj\Debug\net8.0\SumOfEvenNumbersInList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\SumOfEvenNumbersInList\obj\Debug\net8.0\SumOfEvenNumbersInList.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\SumOfEvenNumbersInList\obj\Debug\net8.0\SumOfEvenNumbersInList.AssemblyInfo.cs
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\SumOfEvenNumbersInList\obj\Debug\net8.0\SumOfEvenNumbersInList.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\SumOfEvenNumbersInList\obj\Debug\net8.0\SumOfEvenNumbersInList.dll
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\SumOfEvenNumbersInList\obj\Debug\net8.0\refint\SumOfEvenNumbersInList.dll
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\SumOfEvenNumbersInList\obj\Debug\net8.0\SumOfEvenNumbersInList.pdb
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\SumOfEvenNumbersInList\obj\Debug\net8.0\SumOfEvenNumbersInList.genruntimeconfig.cache
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\SumOfEvenNumbersInList\obj\Debug\net8.0\ref\SumOfEvenNumbersInList.dll

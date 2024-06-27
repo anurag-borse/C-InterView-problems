@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\StringEncoding\obj\Debug\net8.0\StringEncoding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\StringEncoding\obj\Debug\net8.0\StringEncoding.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\StringEncoding\obj\Debug\net8.0\StringEncoding.AssemblyInfo.cs
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\StringEncoding\obj\Debug\net8.0\StringEncoding.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\StringEncoding\bin\Debug\net8.0\StringEncoding.exe
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\StringEncoding\bin\Debug\net8.0\StringEncoding.deps.json
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\StringEncoding\bin\Debug\net8.0\StringEncoding.runtimeconfig.json
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\StringEncoding\bin\Debug\net8.0\StringEncoding.dll
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\StringEncoding\bin\Debug\net8.0\StringEncoding.pdb
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\StringEncoding\obj\Debug\net8.0\StringEncoding.dll
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\StringEncoding\obj\Debug\net8.0\refint\StringEncoding.dll
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\StringEncoding\obj\Debug\net8.0\StringEncoding.pdb
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\StringEncoding\obj\Debug\net8.0\StringEncoding.genruntimeconfig.cache
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\StringEncoding\obj\Debug\net8.0\ref\StringEncoding.dll

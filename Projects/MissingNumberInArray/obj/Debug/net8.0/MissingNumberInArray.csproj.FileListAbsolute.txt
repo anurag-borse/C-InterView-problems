@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\MissingNumberInArray\bin\Debug\net8.0\MissingNumberInArray.exe
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\MissingNumberInArray\bin\Debug\net8.0\MissingNumberInArray.deps.json
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\MissingNumberInArray\bin\Debug\net8.0\MissingNumberInArray.runtimeconfig.json
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\MissingNumberInArray\bin\Debug\net8.0\MissingNumberInArray.dll
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\MissingNumberInArray\bin\Debug\net8.0\MissingNumberInArray.pdb
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\MissingNumberInArray\obj\Debug\net8.0\MissingNumberInArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\MissingNumberInArray\obj\Debug\net8.0\MissingNumberInArray.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\MissingNumberInArray\obj\Debug\net8.0\MissingNumberInArray.AssemblyInfo.cs
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\MissingNumberInArray\obj\Debug\net8.0\MissingNumberInArray.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\MissingNumberInArray\obj\Debug\net8.0\MissingNumberInArray.dll
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\MissingNumberInArray\obj\Debug\net8.0\refint\MissingNumberInArray.dll
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\MissingNumberInArray\obj\Debug\net8.0\MissingNumberInArray.pdb
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\MissingNumberInArray\obj\Debug\net8.0\MissingNumberInArray.genruntimeconfig.cache
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\MissingNumberInArray\obj\Debug\net8.0\ref\MissingNumberInArray.dll

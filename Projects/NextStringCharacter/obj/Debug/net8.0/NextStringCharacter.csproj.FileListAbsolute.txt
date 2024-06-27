@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\NextStringCharacter\bin\Debug\net8.0\NextStringCharacter.exe
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\NextStringCharacter\bin\Debug\net8.0\NextStringCharacter.deps.json
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\NextStringCharacter\bin\Debug\net8.0\NextStringCharacter.runtimeconfig.json
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\NextStringCharacter\bin\Debug\net8.0\NextStringCharacter.dll
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\NextStringCharacter\bin\Debug\net8.0\NextStringCharacter.pdb
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\NextStringCharacter\obj\Debug\net8.0\NextStringCharacter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\NextStringCharacter\obj\Debug\net8.0\NextStringCharacter.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\NextStringCharacter\obj\Debug\net8.0\NextStringCharacter.AssemblyInfo.cs
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\NextStringCharacter\obj\Debug\net8.0\NextStringCharacter.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\NextStringCharacter\obj\Debug\net8.0\NextStringCharacter.dll
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\NextStringCharacter\obj\Debug\net8.0\refint\NextStringCharacter.dll
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\NextStringCharacter\obj\Debug\net8.0\NextStringCharacter.pdb
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\NextStringCharacter\obj\Debug\net8.0\NextStringCharacter.genruntimeconfig.cache
+C:\Users\HP\Desktop\New folder\DSA\c#\Projects\NextStringCharacter\obj\Debug\net8.0\ref\NextStringCharacter.dll
